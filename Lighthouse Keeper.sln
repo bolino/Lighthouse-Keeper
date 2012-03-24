@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lighthouse Keeper", "Lighthouse Keeper\Lighthouse Keeper.vcproj", "{182AF04F-CF64-4F2B-9858-A41C7D33DB4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182AF04F-CF64-4F2B-9858-A41C7D33DB4A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{182AF04F-CF64-4F2B-9858-A41C7D33DB4A}.Debug|Win32.Build.0 = Debug|Win32
+		{182AF04F-CF64-4F2B-9858-A41C7D33DB4A}.Release|Win32.ActiveCfg = Release|Win32
+		{182AF04F-CF64-4F2B-9858-A41C7D33DB4A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
