@@ -1,2 +1,14 @@
-blah blah blah
+Lighthouse Keeper by Juan Andres Nin 
+18/12/2011
+ninbolin@gmail.com
+http://blolling.blogspot.com
 
+This is a game developed for Ludum Dare 22.
+
+You are an old school lighthouse keeper who must gather fuel from trees, be it wood or oil, so the lighthouse can function and aid ships at night. Beware of the hungry wolves!
+Pines gives you wood to burn at the lighthouse, which is harvested faster than oil but consumes faster. You can gather oil from olive trees, but it takes longer to do so than getting wood from a pine.
+
+Controls:
+Arrow keys to move around. 
+A to harvest wood/oil from trees. 
+S to punch wolves in the face.
