@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual C++ Express 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lighthouse Keeper", "Lighthouse Keeper\Lighthouse Keeper.vcproj", "{182AF04F-CF64-4F2B-9858-A41C7D33DB4A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lighthouse Keeper", "Lighthouse-Keeper\Lighthouse Keeper.vcproj", "{182AF04F-CF64-4F2B-9858-A41C7D33DB4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
